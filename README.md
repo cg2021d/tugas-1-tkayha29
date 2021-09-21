@@ -6,7 +6,7 @@ Foto Benda dari D, I, atau N.
 Benda : Daun / Duct tape
 
 Daun : Depan
-![depan](https://user-images.githubusercontent.com/74232912/134219770-f13ace14-993b-4894-9d72-3a13ccee250e.jpg)
+![depan](https://user-images.githubusercontent.com/74232912/134220108-084afdf0-2886-455f-b19a-b14260d8ff6b.jpg)
 
 Daun : Belakang
 ![belakang](https://user-images.githubusercontent.com/74232912/134219865-a5a6131c-1e91-417c-bc79-dca9df6ec282.jpg)

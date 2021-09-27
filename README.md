@@ -3,7 +3,7 @@ tugas-1-tkayha29 created by GitHub Classroom
 Alfarabi Muzli
 Foto Benda dari D, I, atau N.
 
-Benda : Daun / Duct tape
+Benda : Daun
 
 Daun : Depan
 ![depan](https://user-images.githubusercontent.com/74232912/134220108-084afdf0-2886-455f-b19a-b14260d8ff6b.jpg)
@@ -16,9 +16,3 @@ Daun : Samping Kiri
 
 Daun : Samping Kanan
 ![samping kanan](https://user-images.githubusercontent.com/74232912/134219947-6e5fd10b-8bd6-4b52-9960-66131a7b4f78.jpg)
-
-Duct Tape : Depan/Belakang
-![79865](https://user-images.githubusercontent.com/74232912/134219990-d022db0f-41ac-47f3-b2a2-5cb13426aeda.jpg)
-
-Duct Tape : Samping
-![79866](https://user-images.githubusercontent.com/74232912/134220015-65cc4ac0-8a82-43c3-b3d6-5792bc377a24.jpg)

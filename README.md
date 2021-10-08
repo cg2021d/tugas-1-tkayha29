@@ -5,6 +5,8 @@ Foto Benda dari D, I, atau N.
 
 Benda : Daun
 
+# posisi Daun yang bergerak tidak sesuai
+
 Daun : Depan
 ![depan](https://user-images.githubusercontent.com/74232912/134220108-084afdf0-2886-455f-b19a-b14260d8ff6b.jpg)
 

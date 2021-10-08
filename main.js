@@ -6,7 +6,6 @@ function main() {
     const leaf_L = {
         Batang : [0.51, 0.870, 0.400],
         Daun : [0.0315, 0.500, 0.261],
-
         // Left Leaf Builder
         titik_1L : [-0.525, 0.40],
         titik_2L : [-0.475, 0.40],
@@ -39,7 +38,6 @@ function main() {
     const leaf_R = {
         Batang : [0.51, 0.870, 0.400],
         Daun : [0.0315, 0.500, 0.261],
-
         // Right Leaf builder
         titik_1R : [-0.525, 0.40],
         titik_2R : [-0.475, 0.40],
@@ -420,6 +418,7 @@ function main() {
     }
     document.addEventListener("keydown", onKeydown);
     document.addEventListener("keyup", onKeyup);
+
 
     //Kecepatan sesuai 0.0xxx dengan xxx merupakan
     //NRP yaitu 039
